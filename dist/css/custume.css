@@ -1,0 +1,407 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    padding-top: 15px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fdfdfd;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: initial;
+}
+
+p {
+    font-size: 10px;
+    font-family: inherit;
+    font-weight: 100;
+    color: #cecece;
+    margin: 0;
+}
+
+.carousel-caption {
+    bottom: 9%;
+    right: 10%;
+    left: 10%;
+}
+
+a.BannerButton {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+
+/*********** Footer *************/
+
+.footer {
+    height: 58px;
+    background-color: #b71414;
+}
+
+.contactText {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    color: #fff;
+    font-family: serif;
+}
+
+.map {
+    width: 100%;
+    height: auto;
+    border: 0;
+    height: 430px;
+}
+
+.Information {
+    clear: both;
+    padding-top: 40px;
+    margin-left: 20px;
+}
+
+.icon {
+    width: 70px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#mapRow {
+    background-color: #21374a;
+    border-bottom: 0.1em solid #4d5a65;
+}
+
+#CopyRight {
+    height: 40px;
+    background-color: #21374a;
+}
+
+.CopyRightText {
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+#MapPadding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+/**********  Middel Section ***********/
+
+#SectionConatiner {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.textInformation {
+    font-size: 23px;
+    font-family: initial;
+    color: #fff;
+}
+
+.subText {
+    font-size: 13px;
+    font-family: inherit;
+    color: #93a1ad;
+}
+
+.boxIconClass {
+    text-align: center;
+}
+
+.BoxHeading {
+    font-family: initial;
+    font-size: 19px;
+    text-align: center;
+}
+
+.BoxSubText {
+    text-align: center;
+    font-size: 16px;
+}
+
+.GetMoreInfoButton {
+    text-align: center;
+}
+
+#linkBorderOne,
+#linkBorderTwo,
+#linkBorderThree {
+    border: 1px solid#e0d6d6;
+    padding: 10px;
+    font-size: 12px
+}
+
+#SectionRow {
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+.Boxwidth {
+    padding: 20px;
+    border: 1px solid #e0d6d6;
+}
+
+
+/*************** About Section **********/
+
+.AboutClass {
+    text-align: center;
+}
+
+.border {
+    width: 5%;
+    height: 2px;
+    background-color: #c72929;
+    margin: 0 auto;
+}
+
+#Aboutcontainer {
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+.AboutText {
+    font-size: 28px;
+    font-family: -webkit-pictograph;
+    font-weight: 100;
+    color: #901a1a;
+    text-align: right;
+    line-height: 26px;
+}
+
+.col-lg-12.AboutMargin {
+    margin-bottom: 35px;
+}
+
+.aboutDetailOne {
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #797676;
+    margin: 0;
+    line-height: 20px;
+}
+
+#xs-4 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.wrapper {
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+
+/************ Side Image And text secton *********/
+
+.SideImage {
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.iconHeading {
+    color: #274a69;
+    font-size: 23px;
+    font-family: initial;
+}
+
+.InformationText {
+    clear: both;
+    padding-top: 4px;
+    margin-left: 20px;
+}
+
+.iconOne {
+    width: 70px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#SideImageandText {
+    margin-bottom: 70px;
+}
+
+
+/******** Our states Page ***************/
+
+.numberClass {
+    font-size: 32px;
+    font-family: initial;
+    font-weight: 600;
+    color: #21374a;
+    text-align: center;
+}
+
+.numberDetail {
+    font-size: 17px;
+    font-family: initial;
+    font-weight: 100;
+    color: #475058;
+    text-align: center;
+}
+
+.numberMargin {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#Ourstats {
+    margin-bottom: 70px;
+}
+
+
+/************  Our states Page *****/
+
+.OurImages {
+    width: 100%;
+}
+
+.OurImageRow {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#OurWorkMargin {
+    margin-bottom: 70px;
+}
+
+
+/********** Corosal ********/
+
+.circle {
+    width: 90px;
+    margin: auto;
+}
+
+.CaptionText {
+    padding-bottom: 0;
+    position: initial;
+    bottom: 0;
+    margin-bottom: 120px;
+}
+
+.carouselText {
+    width: 37%;
+    margin: auto;
+    font-size: 14px;
+    font-family: initial;
+    font-weight: 100;
+    color: #21374a;
+    text-shadow: none;
+}
+
+.glyphicon-chevron-left:before {
+    content: "\e079";
+    font-size: 20px;
+    color: #21374a;
+}
+
+.glyphicon-chevron-right:before {
+    content: "\e080";
+    font-size: 20px;
+    color: #21374a;
+}
+
+.carousel-indicators .active {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #21374a;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgb(198, 205, 212);
+    border-radius: 0px;
+}
+
+.carousel-indicators {
+    bottom: 66px;
+}
+
+.carousel-control.left {
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5) 0, rgba(0, 0, 0, .0001) 100%);
+}
+
+.carousel-control.right {
+    background-image: linear-gradient(to right, rgb(255, 255, 255) 0, rgb(255, 255, 255) 100%);
+}
+
+@media (max-width:766px) {
+    #hideMenuOne,
+    #hideMenuTwo {
+        display: none !important;
+    }
+}
+
+.navbar-right .dropdown-menu {
+    right: -219px;
+    left: -127px;
+}
+
+.dropdown-menu {
+    min-width: 306px;
+}
+
+#navBarCenter {
+    width: 100%;
+    margin-bottom: 27px;
+    text-align: center;
+}
+
+#navBarCenter li {
+    float: none;
+    display: inline-block;
+}
+
+.navbar-nav>li>a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+@media (max-width:766px) {
+    #navBarCenter li {
+        display: block !important;
+    }
+}
+
+.icons {
+    width: 40px;
+}

@@ -1,0 +1,68 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M121.143 438.857l356 380-171.429-380h-184.571zM585.143 880l199.429-441.143h-398.857zM307.429 365.714l116.571-219.429h-149.714l-164.571 219.429h197.714zM693.143 818.857l356-380h-184.571zM390.286 365.714h389.714l-116.571-219.429h-156.571zM862.857 365.714h197.714l-164.571-219.429h-149.714zM943.429 88l219.429 292.571c10.857 13.714 9.714 33.714-2.286 46.857l-548.571 585.143c-6.857 7.429-16.571 11.429-26.857 11.429s-20-4-26.857-11.429l-548.571-585.143c-12-13.143-13.143-33.143-2.286-46.857l219.429-292.571c6.857-9.714 17.714-14.857 29.143-14.857h658.286c11.429 0 22.286 5.143 29.143 14.857z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 1170,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "diamond"
+        ],
+        "grid": 14
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 0,
+        "prevSize": 28,
+        "code": 59649,
+        "name": "diamond2"
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
